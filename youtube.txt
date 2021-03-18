@@ -8,3 +8,4 @@ m.youtube.com
 youtubei.googleapis.com
 youtube.googleapis.com
 www.youtube-nocookie.com
+www.tmz.com
