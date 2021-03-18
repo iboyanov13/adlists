@@ -2,5 +2,9 @@
 # License: GPLv3
 # Contact: support [at] disconnect.me
 
-tmz.com
-www.tmz.com
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+www.youtube-nocookie.com
