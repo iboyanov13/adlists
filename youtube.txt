@@ -10,5 +10,5 @@ www.youtube-nocookie.com
 
 # Minecraft
 # ================================
-minecraft.net
+# minecraft.net
 mojang.com
