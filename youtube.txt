@@ -1,6 +1,5 @@
-# Basic tracking list by Disconnect
+# Basic tracking list by JiGL
 # License: GPLv3
-# Contact: support [at] disconnect.me
 
 youtube.com
 www.youtube.com
@@ -8,4 +7,8 @@ m.youtube.com
 youtubei.googleapis.com
 youtube.googleapis.com
 www.youtube-nocookie.com
+
+# Minecraft
+# ================================
 *.minecraft.net
+*.mojang.com
